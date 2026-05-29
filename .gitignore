@@ -1,0 +1,14 @@
+# Never upload secrets
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Poetry virtual environment
+.venv/
+
+# OS junk
+.DS_Store
